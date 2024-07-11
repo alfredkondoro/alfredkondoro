@@ -4,13 +4,10 @@ A passionate developer from Tanzania
 
 ![Profile views](https://gpvc.arturio.dev/alfredkondoro)
 
-- 🌱 I’m currently learning [Technology]
-- 💬 Ask me about [Topic]
-- 📫 How to reach me: [Your Email]
-- ⚡ Fun fact: [Fun Fact]
+- 📫 How to reach me: alfredkondoro97@gmail.com
 
 ## Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/alfredkondoro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/alfredkondoro](https://www.linkedin.com/in/alfred-kondoro-b70605181/))
 
 ## Languages and Tools:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
