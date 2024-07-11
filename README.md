@@ -1,8 +1,6 @@
 # Hi 👋, I'm Alfred Kondoro
 
-A passionate developer from Tanzania
-
-![Profile views](https://gpvc.arturio.dev/alfredkondoro)
+A passionate researcher from Tanzania
 
 - 📫 How to reach me: alfredkondoro97@gmail.com
 
